@@ -1,4 +1,4 @@
 # PongPyGame
-* Pong game creaated using pygame with/without sprite class
+* Pong game created using pygame with/without sprite class
 
 > pip install pygame
